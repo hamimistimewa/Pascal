@@ -1,1 +1,1 @@
-# Source Code Praktikum Pascal
+# Praktikum Pascal
